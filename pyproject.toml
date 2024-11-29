@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "chatbot-enfermeiro"
+version = "0.1.0"
+description = "Um chatbot enfermeiro simples."
+authors = ["Seu Nome <seu.email@exemplo.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^6.0.0"
+mypy = "^1.0.0"
+pytest = "^7.0.0"
